@@ -42,7 +42,7 @@ const chooseProgramStyles = {
   testimonials: {
     backgroundColor: '#9035D3',
     backgroundImage:
-      "url('https://res.cloudinary.com/npoipe/image/upload/v1635668961/emal%20template%20halloween/testimonials_gkqdqa.jpg')",
+      "url('https://res.cloudinary.com/npoipe/image/upload/v1635686775/emal%20template%20halloween/testimonials_iab75t.jpg')",
     backgroundRepeat: 'no-repeat',
     minWidth: '600px',
     width: '100%',
