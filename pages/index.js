@@ -34,7 +34,7 @@ const Home = ({ data }) => {
         <Article />
         <ChooseProgram />
         <Articles />
-        {/* <Rate /> */}
+        <Rate />
         <FooterContacts />
         <FooterLinks />
         <Footer />

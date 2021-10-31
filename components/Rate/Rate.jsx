@@ -7,14 +7,10 @@ const Rate = () => {
       <Row>
         <Column style={stls.column}>
           <div style={stls.fullwidth}>
-            <p style={stls.title}>Интересные статьи от НАНО «ИПО»</p>
-            <p style={stls.p}>
-              Понятие «сильная личность» определяется не какой-либо одной
-              особенностью, а целым комплексом устойчивых характеристик.
-            </p>
-            <div style={stls.btn}>
-              <Link href={'/'}>
-                <span style={stls.link}>Читать статью</span>
+            <p style={stls.title}>Как вам такая рассылка?</p>
+            <div style={stls.link}>
+              <Link href='/'>
+                <p style={stls.rate}></p>
               </Link>
             </div>
           </div>
