@@ -12,12 +12,13 @@ const rateStyles = {
   link: {
     width: '100%',
     maxWidth: '324px',
-    margin: '0 auto',
+    // margin: '0 auto',
     textAlign: 'center'
   },
   title: {
     marginTop: '30px',
     // marginLeft: '20px',
+    margin: '0 auto',
     textAlign: 'center',
     fontSize: '24px',
     fontWeight: 500,
@@ -27,14 +28,14 @@ const rateStyles = {
   rate: {
     backgroundColor: '#fff',
     backgroundImage:
-      "url('https://res.cloudinary.com/npoipe/image/upload/v1635673271/emal%20template%20halloween/rate_n3efmr.jpg')",
+      "url('https://res.cloudinary.com/npoipe/image/upload/v1635686190/emal%20template%20halloween/rate_selovl.jpg')",
     backgroundRepeat: 'no-repeat',
-    minWidth: '324px',
-    maxWidth: '324px',
+    minWidth: '597px',
+    maxWidth: '597px',
     width: '100%',
     minHeight: '145px',
-    height: '100%',
-    margin: '0 auto'
+    height: '100%'
+    // margin: '0 auto'
   },
   btn: {
     margin: '7px auto',
