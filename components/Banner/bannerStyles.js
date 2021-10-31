@@ -12,7 +12,7 @@ const bannerStyles = {
   },
   column: {
     backgroundImage:
-      "url('https://res.cloudinary.com/mipinstitute/image/upload/v1629971752/temp%20ipo%20email/banner_tjogdh.jpg')",
+      "url('https://res.cloudinary.com/npoipe/image/upload/v1635664354/emal%20template%20halloween/hero_afzxnt.jpg')",
     minWidth: '600px',
     width: '600px',
     height: '300px'

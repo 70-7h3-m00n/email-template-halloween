@@ -18,6 +18,8 @@ import {
   FooterLinks,
   Footer
 } from '../components'
+import Hello from '../components/Hello/Hello'
+import Article from '../components/Article/Article'
 
 const Home = ({ data }) => {
   const dataThisMonth = data
@@ -68,6 +70,9 @@ const Home = ({ data }) => {
         <HeaderLogo />
         <HeaderLinks />
         <Banner />
+        <Hello />
+        <Article />
+
         <Winner data={twoMonthsInFromAugustSumUp} />
         <LeaderboardsMonth data={twoMonthsInFromAugustSumUp} />
         <Prize data={dataFromJulySumUp} />
@@ -81,7 +86,8 @@ const Home = ({ data }) => {
 }
 
 export async function getStaticProps(context) {
-  const data = await fetchNotionData()
+  // const data = await fetchNotionData()
+  const data = []
 
   return {
     props: {
