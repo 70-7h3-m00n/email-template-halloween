@@ -18,14 +18,8 @@ const bannerStyles = {
     height: '300px'
   },
   btn: {
-    marginTop: '7px',
-    marginLeft: '40px',
-    padding: '16px 54px',
-    fontSize: '18px',
-    lineHeight: '22px',
-    backgroundColor: '#3290FF',
-    borderRadius: '4px',
-    color: '#fff'
+    width: '100%',
+    height: '100%'
   }
 }
 

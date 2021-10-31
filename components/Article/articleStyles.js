@@ -6,7 +6,7 @@ const articleStyles = {
   fullwidth: {
     width: '100%',
     height: '100%',
-    marginBottom: '50px'
+    marginBottom: '30px'
   },
   title: {
     marginTop: '30px',
@@ -56,10 +56,10 @@ const articleStyles = {
     backgroundColor: '#7D22BF',
     padding: '20px',
     marginTop: '246px',
-    marginBottom: '30px',
+    marginBottom: '0',
     textAlign: 'center',
-    marginLeft: '20px',
-    marginRight: '20px',
+    marginLeft: '10px',
+    marginRight: '10px',
     fontSize: '14px',
     fontWeight: 300,
     lineHeight: '21px',
